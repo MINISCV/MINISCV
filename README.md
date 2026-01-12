@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Black+Han+Sans&size=40&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%98%81%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4."
+            src="https://readme-typing-svg.herokuapp.com?font=Black+Han+Sans&size=40&duration=2000&pause=2000&color=7F8C8D&center=true&vCenter=true&width=800&height=100&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%98%81%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4."
             alt="Typing SVG"
         />
     </a>
@@ -85,6 +85,7 @@
 <h2 align="center">🏃 Experiences 🏃</h2>
 
 <p align="center">
+    <b>2026.01 ~        </b> | 부산대학교 AX·정보화혁신본부 계약직 <br />
     <b>2025.05 ~ 2025.11</b> | AI활용 빅데이터 분석 풀스택 웹서비스 SW 개발자 양성과정 - 부산대학교 <br />
     <b>2019.03 ~ 2025.02</b> | 부산대학교 전기컴퓨터공학과 졸업
 </p>
