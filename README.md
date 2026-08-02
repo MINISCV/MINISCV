@@ -93,6 +93,7 @@
 <h2 align="center">📜 Certificates 📜</h2>
 
 <p align="center">
+    <b>2026.07</b> | 빅데이터분석기사 - 과학기술정보통신부 <br />
     <b>2024.12</b> | 정보처리기사 - 한국산업인력공단 <br />
     <b>2024.05</b> | TOPCIT - 정보통신기획평가원 <br />
 </p>
